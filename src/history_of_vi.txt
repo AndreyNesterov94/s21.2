@@ -1,0 +1,7 @@
+vi History
+
+vi remains very popular today in spite of the development and widespread availability of GUI (graphical user interface) mode text editors which are far more intuitive and much easier for beginners to use than text-mode text editors such as vi.
+GUI-mode text editors include gedit and Emacs, both of which have become very common on Linux and other Unixes today..
+
+
+
